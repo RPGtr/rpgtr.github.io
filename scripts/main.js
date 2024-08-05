@@ -18,3 +18,4 @@ function openSection(evt, sectionName) {
   document.getElementById(sectionName).style.display = "block";
   evt.currentTarget.className += " active";
 } 
+
